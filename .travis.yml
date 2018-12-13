@@ -1,0 +1,7 @@
+dist: xenial
+language: c
+addons:
+  apt:
+    packages:
+    - cmake
+script: cmake . && make && ./ci_testing
