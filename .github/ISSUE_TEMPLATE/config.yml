@@ -1,8 +1,12 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: GitHub Community Forum
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: CitusData Contact Form
+    url: https://www.citusdata.com/about/contact_us
+    about: We'd love to hear from you
+  - name: Join our Slack channel
+    url: https://slack.citusdata.com/
+    about: For chatting with Citus users & hackers 
+  - name: Follow us on twitter
+    url: https://www.twitter.com/citusdata
+    about: Keep yourself in the loop
+    
